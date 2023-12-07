@@ -1,0 +1,10 @@
+.metals/
+.bloop/
+project/.bloop/
+
+target/
+.idea/
+.bsp/
+metastore_db/
+derby.log
+**/.DS_Store
